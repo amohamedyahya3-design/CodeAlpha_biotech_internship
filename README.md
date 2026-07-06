@@ -55,9 +55,6 @@ The project demonstrates the effectiveness of biotechnology techniques through e
 ## 🤝 Contributors
 - Your Name
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## ⭐ Support
 If you found this project useful, please give it a ⭐ on GitHub.
 
